@@ -3,7 +3,7 @@ public class Main {
         StaffMember.showSystemName();
         UniversityPolicy.showPolicyHeader();
 
-        Lecturer lecturer1 = new Lecturer("Nethranjana", "L001", "IT", 3, 50000);
+        Lecturer lecturer1 = new Lecturer("Nethranjana", "L001", "PE", 3, 50000);
         Lecturer lecturer2 = new Lecturer("Kasun", "L002", "Physics", 2, 45000);
         LabAssistant labAssistant1 = new LabAssistant("Saman", "A001", "Computer Lab", 100, 500);
 
